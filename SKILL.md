@@ -3,8 +3,9 @@ name: foundation-first-methodology
 description: Establish foundational principles before building details, ensuring structure supports elaboration - following Bach's thoroughbass approach where the bass line determines everything above it.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4033
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - foundation-first-methodology
